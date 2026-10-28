@@ -1,0 +1,8 @@
+Contact: mailto:security@primocart.example
+Contact: https://plabonislam607-blip.github.io/primo-cart/#contact
+Expires: 2027-12-31T23:59:59.000Z
+Encryption: https://plabonislam607-blip.github.io/primo-cart/pgp-key.txt
+Acknowledgments: https://plabonislam607-blip.github.io/primo-cart/thanks
+Preferred-Languages: bn, en
+Canonical: https://plabonislam607-blip.github.io/primo-cart/.well-known/security.txt
+Policy: https://plabonislam607-blip.github.io/primo-cart/security-policy

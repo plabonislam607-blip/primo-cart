@@ -1,0 +1,40 @@
+{
+  "name": "Primo Cart — প্রিমিয়াম অনলাইন শপ",
+  "short_name": "Primo Cart",
+  "description": "বাংলাদেশের বিশ্বস্ত অনলাইন শপিং প্ল্যাটফর্ম। ক্যাশ অন ডেলিভারি, দ্রুত ডেলিভারি।",
+  "start_url": "/primo-cart/",
+  "scope": "/primo-cart/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8FAFC",
+  "theme_color": "#5B4BDB",
+  "lang": "bn",
+  "dir": "ltr",
+  "categories": ["shopping", "ecommerce"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "শপিং",
+      "url": "/primo-cart/#shop",
+      "description": "সব পণ্য দেখুন"
+    },
+    {
+      "name": "আমার অর্ডার",
+      "url": "/primo-cart/#orders",
+      "description": "অর্ডার ট্র্যাক করুন"
+    }
+  ]
+}

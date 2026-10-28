@@ -1,0 +1,24 @@
+# Primo Cart
+
+> Primo Cart হলো বাংলাদেশের একটি প্রিমিয়াম অনলাইন শপিং প্ল্যাটফর্ম। ক্যাশ অন ডেলিভারি, দ্রুত ডেলিভারি, এবং সেরা মানের পণ্য সরবরাহ করে। ওয়েবসাইটে বাংলা ভাষায় পণ্য ব্রাউজ, সার্চ, কার্ট, উইশলিস্ট, এবং অর্ডার ট্র্যাকিং সুবিধা রয়েছে।
+
+Primo Cart is a premium online shopping platform in Bangladesh, offering Cash on Delivery, fast shipping, and quality products with a Bangla-first UI.
+
+## Main Pages
+- [Home](https://plabonislam607-blip.github.io/primo-cart/): হোমপেজ, ফিচার্ড/নতুন/ডিসকাউন্ট পণ্য
+- [Shop](https://plabonislam607-blip.github.io/primo-cart/#shop): সব পণ্য + ফিল্টার
+- [Categories](https://plabonislam607-blip.github.io/primo-cart/#categories): ক্যাটাগরি তালিকা
+- [Search](https://plabonislam607-blip.github.io/primo-cart/#search): পণ্য সার্চ
+- [Wishlist](https://plabonislam607-blip.github.io/primo-cart/#wishlist): উইশলিস্ট
+- [Orders](https://plabonislam607-blip.github.io/primo-cart/#orders): অর্ডার ট্র্যাকিং
+
+## Contact
+- Short URL: https://tinyurl.com/primo-cart
+- Store: Primo Cart, Bangladesh
+
+## Features
+- Cash on Delivery (COD)
+- bKash / Nagad manual payment
+- Product reviews, wishlist, cart
+- Bangla UI (bn-BD)
+- Mobile-first responsive design

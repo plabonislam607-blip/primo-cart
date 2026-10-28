@@ -1,0 +1,3 @@
+# Primo Cart — Authorized Digital Sellers
+# Google AdSense (যদি ব্যবহার করেন, আপনার pub-id বসান)
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

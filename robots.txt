@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+# Admin/private pages block
+Disallow: /admin/
+Disallow: /admin.html
+Disallow: /checkout-success
+Disallow: /private/
+
+# Crawl-delay for politeness
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://plabonislam607-blip.github.io/primo-cart/sitemap.xml
+Sitemap: https://plabonislam607-blip.github.io/primo-cart/sitemap-index.xml
+
+# AI/LLM crawlers — allow for visibility
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /

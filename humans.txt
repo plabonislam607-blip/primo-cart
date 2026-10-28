@@ -1,0 +1,15 @@
+/* TEAM */
+  Developer: Primo Cart Dev Team
+  Contact: hello@primocart.example
+  Location: Dhaka, Bangladesh
+
+/* SITE */
+  Last update: 2026-10-28
+  Language: Bengali (bn-BD)
+  Standard: HTML5, CSS3, Vanilla JS
+  Framework: Firebase Realtime Database + Auth
+  Components: Custom CSS + ES Modules
+
+/* THANKS */
+  Fonts: Hind Siliguri, Inter (Google Fonts)
+  Backend: Firebase (Google)
